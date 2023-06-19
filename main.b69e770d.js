@@ -49086,8 +49086,6 @@ n.m = e, n.n = function(e) {
         return "https://cdn.jsdelivr.net/gh/ManmeetA/RegistrationPage/" + e + "." + {
             180: "29a27a48",
             532: "6032c8d8",
-            656: "ff6b5c2e",
-            947: "04e8b6ae"
         } [e] + ".chunk.js"
     }, n.miniCssF = function(e) {
         return "https://cdn.jsdelivr.net/gh/ManmeetA/RegistrationPage/656.92b9b771.chunk.css"
