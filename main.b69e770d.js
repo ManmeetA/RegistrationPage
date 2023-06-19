@@ -49082,7 +49082,8 @@ n.m = e, n.n = function(e) {
             return n.f[r](e, t), t
         }), []))
     }, n.u = function(e) {
-        return "static/js/" + e + "." + {
+        console.log(e);
+        return "https://cdn.jsdelivr.net/gh/ManmeetA/RegistrationPage/" + {
             180: "29a27a48",
             532: "6032c8d8",
             656: "ff6b5c2e",
