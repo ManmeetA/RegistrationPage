@@ -49083,7 +49083,7 @@ n.m = e, n.n = function(e) {
         }), []))
     }, n.u = function(e) {
         console.log(e);
-        return "https://cdn.jsdelivr.net/gh/ManmeetA/RegistrationPage/" + {
+        return "https://cdn.jsdelivr.net/gh/ManmeetA/RegistrationPage/" + e + "." + {
             180: "29a27a48",
             532: "6032c8d8",
             656: "ff6b5c2e",
